@@ -22,15 +22,14 @@ const About = () => {
               <FaAward className="about__icon" />
               <h5>Experience</h5>
               <small>
-                6 Months + <br /> Developer Experience
+                12 Months + <br /> Software Developer Experience
               </small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Education</h5>
               <small>
-                B.Sc. Mechanical Engineering, M.Sc. Innovation &
-                Entrepreneurship
+                software Engineering
               </small>
             </article>
             <article className="about__card">
@@ -51,11 +50,7 @@ const About = () => {
             Development and Pre-Sales of RPA technology.
           </p>
           <p>
-            In recent years, I've worked in the Coaching Industry with Sales
-            Automation, Website, & Advertisement Management. I thrive in a role
-            where I can use my broad knowledge to break down complex problems
-            and where the tasks require interaction between Design &
-            Functionality.
+            
           </p>
           <p>
             After a career focused on the business side of IT, I've immersed
