@@ -9,7 +9,7 @@ const Footer = () => {
     <footer>
       {/* eslint-disable-next-line */}
       <a href="#" className="footer__logo">
-        Ademir Alijagic
+        Kwetso Kgaladi
       </a>
       <ul className="permalinks">
         <li>
@@ -19,9 +19,9 @@ const Footer = () => {
         <li>
           <a href="#about">About</a>
         </li>
-        <li>
+        {/* <li>
           <a href="#experience">Experience</a>
-        </li>
+        </li> */}
         <li>
           <a href="#portfolio">Portfolio</a>
         </li>
